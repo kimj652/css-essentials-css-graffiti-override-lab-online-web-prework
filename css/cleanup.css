@@ -14,7 +14,8 @@ div#wall .parent #tag-4 {
 }
 
 div#wall .parent #tag-4:hover {
-  display:none;
+  background: blue;
+  opacity: 0.2;
 }
 
 div#wall #tag-2:hover {
