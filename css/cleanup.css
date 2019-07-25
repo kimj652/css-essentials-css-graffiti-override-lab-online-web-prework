@@ -13,6 +13,10 @@ div#wall .parent #tag-4 {
   display:none;
 }
 
+div#wall .parent #tag-4:hover {
+  display:none;
+}
+
 div#wall #tag-2:hover {
   background: gray;
   opacity: 0.2;
