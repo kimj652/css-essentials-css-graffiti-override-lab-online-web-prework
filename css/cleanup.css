@@ -11,6 +11,7 @@ div#wall #tag-3:hover {
 
 div#wall .parent #tag-4 {
   display:none;
+  float:left;
 }
 
 div#wall #tag-2:hover {
