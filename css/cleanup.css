@@ -4,8 +4,9 @@
   background: blue;
 }
 
-div#wall #tag-3.wicked {
-  display: none;
+div#wall #tag-3:hover {
+  background: white;
+  opacity: 0.2;
 }
 
 div#wall .parent #tag-4 {
